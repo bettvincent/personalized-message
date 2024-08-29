@@ -1,4 +1,4 @@
-# user_input.py
+# Personal information
 
 # Ask the user for their name
 name = input("What is your name? ")
